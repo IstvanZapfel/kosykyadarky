@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1920 1920"
+   version="1.1"
+   id="svg3214"
+   sodipodi:docname="vase.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3218" />
+  <sodipodi:namedview
+     id="namedview3216"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.60572917"
+     inkscape:cx="961.6509"
+     inkscape:cy="961.6509"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3214" />
+  <style
+     id="style3203">
+        .st0{fill:#fff}.st1{fill:none;stroke:#231f20;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    </style>
+  <path
+     class="st0"
+     d="M1214.7 856.6c160.8 79.5 194 491.6-105.3 722.6-76.4 40.7-346.9 49.9-452.2 0C357.7 1348.2 391 936 551.8 856.6c160.8-79.5 151.5-181.1 157.1-271.7 5.5-90.6-83.2-310.5-83.2-310.5s213.2 55.5 515 0c0 0-88.7 219.9-83.2 310.5 5.6 90.6-3.6 192.2 157.2 271.7zm-557.6 722.6l1.9 68.4s51.1 57.3 224.2 55.4c173.1 1.8 224.2-55.4 224.2-55.4l1.9-68.4c-76.4 40.6-346.8 49.9-452.2 0zM625.7 274.4s213.2 55.5 515 0c0 0-30.8-61-257.1-57.3-226.2 3.7-257.9 57.3-257.9 57.3z"
+     id="Layer_2"
+     style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1" />
+  <g
+     id="STROKES"
+     style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1">
+    <g
+       id="XMLID_1_"
+       style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1">
+      <path
+         class="st1"
+         d="M883.2 1703c-173.1 1.8-224.2-55.4-224.2-55.4l-1.9-68.4C357.7 1348.2 391 936 551.8 856.6c160.8-79.5 151.5-181.1 157.1-271.7 5.5-90.6-83.2-310.5-83.2-310.5s213.2 55.5 515 0c0 0-88.7 219.9-83.2 310.5s-3.7 192.2 157.1 271.7 194 491.6-105.3 722.6l-1.9 68.4c.1 0-51.1 57.3-224.2 55.4"
+         id="path3206"
+         style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1" />
+      <path
+         class="st1"
+         d="M657.1 1579.2c105.3 49.9 375.8 40.7 452.2 0"
+         id="path3208"
+         style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1" />
+      <path
+         class="st1"
+         d="M625.7 274.4s31.7-53.6 258-57.3c226.2-3.7 257.1 57.3 257.1 57.3"
+         id="path3210"
+         style="fill:#c7baad;fill-opacity:1;stroke:#b6a594;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

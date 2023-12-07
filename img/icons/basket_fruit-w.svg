@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg17575"
+   sodipodi:docname="basket_fruit-w.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17577"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.796875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17575" />
+  <defs
+     id="defs17522">
+    <style
+       id="style17520">.cls-1,.cls-3{fill:none;}.cls-1,.cls-2,.cls-3{stroke:#000;stroke-linejoin:round;stroke-width:2px;}.cls-1,.cls-2{stroke-linecap:round;}.cls-2{fill:#f53e28;}</style>
+  </defs>
+  <g
+     id="g17625"
+     style="stroke:#ffffff">
+    <path
+       class="cls-1"
+       d="m 49.8648,26.4533 a 6.8526,6.8526 0 0 0 -2.6437,-6.1086 6.3382,6.3382 0 0 0 -3.8454,-1.1767 6.3386,6.3386 0 0 0 -3.3788,-2.1807 6.5014,6.5014 0 0 0 -4.9381,0.819"
+       id="path17524"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 48.4293,15.4124 c 0,0 -2.865,-0.326 -4.9582,3.5926"
+       id="path17526"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 17.557,20.3423 a 9.8946,9.8946 0 0 1 3.168,-1.7106 8.9437,8.9437 0 0 1 8.1864,1.1407"
+       id="path17528"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 28.9444,24.4646 c -3.1918,1.3234 -5.0466,5.2608 -4.2334,9.4082 q 0.0958,0.4884 0.2347,0.9537"
+       id="path17530"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 42.7185,27.787 a 6.6878,6.6878 0 0 0 -4.6354,-3.6756 6.1716,6.1716 0 0 0 -3.0042,0.17"
+       id="path17532"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 59.6357,34.8611 c 0.3994,-4.2412 -1.9437,-8.0466 -5.5526,-8.75 A 6.3391,6.3391 0 0 0 50.1,26.665 6.3391,6.3391 0 0 0 46.1169,26.1114 c -3.5941,0.7 -5.9327,4.4772 -5.5574,8.6973"
+       id="path17534"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 53.1,21.1294 c 0,0 -2.7355,0.9118 -2.9822,5.3476"
+       id="path17536"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="M 24.5137,34.7907 A 9.4043,9.4043 0 0 0 22.88,30.9983 7.3749,7.3749 0 0 1 21.5357,27.9214 l -0.5232,-3.07 a 5.8921,5.8921 0 0 0 -5.8107,-4.8993 v 0 a 5.8921,5.8921 0 0 0 -5.8107,4.8993 l -0.4986,2.9264 a 8.023,8.023 0 0 1 -1.4185,3.29 9.4038,9.4038 0 0 0 -1.5817,3.7094"
+       id="path17538"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-2"
+       d="m 18.1,14.1294 c 0,0 -2.7355,0.9118 -2.9822,5.3476"
+       id="path17540"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-1"
+       d="m 8,12 h 2 a 5,5 0 0 1 5,5 v 0 H 13 A 5,5 0 0 1 8,12 Z"
+       id="path17542"
+       style="stroke:#ffffff" />
+    <path
+       class="cls-3"
+       d="M 4.5612,41 C 7.1556,52.4109 18.4539,61 32,61 45.5461,61 56.8444,52.4109 59.4388,41"
+       id="path17552"
+       style="stroke:#ffffff" />
+    <polyline
+       class="cls-1"
+       points="28.853 41 3 41 3 35 28.828 35"
+       id="polyline17554"
+       style="stroke:#ffffff" />
+    <polyline
+       class="cls-1"
+       points="35.189 35 61 35 61 41 35.139 41"
+       id="polyline17556"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="11"
+       x2="15"
+       y1="46"
+       y2="46"
+       id="line17558"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="18"
+       x2="26"
+       y1="50"
+       y2="50"
+       id="line17560"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="29"
+       x2="35"
+       y1="50"
+       y2="50"
+       id="line17562"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="48"
+       x2="52"
+       y1="53"
+       y2="53"
+       id="line17564"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="38"
+       x2="54"
+       y1="45"
+       y2="45"
+       id="line17566"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="14"
+       x2="29"
+       y1="55"
+       y2="55"
+       id="line17568"
+       style="stroke:#ffffff" />
+    <line
+       class="cls-1"
+       x1="32"
+       x2="38"
+       y1="55"
+       y2="55"
+       id="line17570"
+       style="stroke:#ffffff" />
+    <rect
+       class="cls-1"
+       height="33"
+       rx="1.3164001"
+       width="6"
+       x="29"
+       y="12"
+       id="rect17572"
+       style="stroke:#ffffff" />
+  </g>
+</svg>
