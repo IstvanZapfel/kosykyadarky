@@ -92,7 +92,7 @@
   font-family: "IcoFont";
   font-weight: normal;
   font-style: "Regular";
-  src: url("./fonts/icofont.woff2") format("woff2"), url("./fonts/icofont.woff") format("woff");
+  src: url("../fonts/icofont.woff2") format("woff2"), url("../fonts/icofont.woff") format("woff");
 }
 
 [class^=icofont-],
@@ -956,10 +956,6 @@ textarea.input {
   border-right: 10px solid transparent;
   border-top: 10px solid #efefef;
   z-index: 2;
-}
-
-.brands__image {
-  padding: 0px 0px 37.51% 0px;
 }
 
 .item {
@@ -2217,6 +2213,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   .menu__sub-list > li:last-child {
     margin: 0;
   }
+
+  .brands__image {
+    padding: 0px 0px 37.51% 0px;
+  }
 }
 
 @media (min-width: 47.99875em) and (any-hover: hover) {
@@ -2568,6 +2568,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
 
   .brands__row {
     gap: 20px;
+  }
+
+  .brands__image {
+    padding: 0px 0px 87% 0px;
   }
 
   .brands_last .brands__column:nth-child(1) {
